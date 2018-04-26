@@ -1,2 +1,2 @@
 # Bienvenue sur le dépôt GitHub de notre Projet de Sonnette Connectée pour le Cours d'IOT!
-# Membres du Groupe: Benjamin GIRALT, Kélian GARDIN, Guillaume HANOTEL, Léo BRUGÈRE, Hugo MONFOUGA, Alexandre DORET
+## Membres du Groupe: Benjamin GIRALT, Kélian GARDIN, Guillaume HANOTEL, Léo BRUGÈRE, Hugo MONFOUGA, Alexandre DORET
